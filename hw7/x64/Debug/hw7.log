@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\mixai\source\repos\hw7\hw7\Source.cpp(20,51): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\mixai\source\repos\hw7\hw7\Source.cpp(55,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  hw7.vcxproj -> C:\Users\mixai\source\repos\hw7\x64\Debug\hw7.exe
